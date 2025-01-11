@@ -1,3 +1,0 @@
-/home/franco/doctorado/final_mn/src/src/build/CMakeFiles/CALDEIRA_LEGGET.dir
-/home/franco/doctorado/final_mn/src/src/build/CMakeFiles/edit_cache.dir
-/home/franco/doctorado/final_mn/src/src/build/CMakeFiles/rebuild_cache.dir
